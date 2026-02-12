@@ -1,16 +1,27 @@
-# React + Vite
+# 🚀 El Radar Interdimensional de Rick
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> “¡Atención, reclutas! Rick Sánchez ha roto (otra vez) su pistola de portales y estamos perdidos en el multiverso. Necesitamos una herramienta para identificar a los habitantes de estas dimensiones y saber si son amigos o amenazas.”
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Descripción
 
-## React Compiler
+**El Radar Interdimensional de Rick** es una aplicación web creada con **React**, **React Router** y **Tailwind CSS** que consume la **Rick and Morty API** para mostrar información de personajes del multiverso.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+La aplicación permite:
 
-## Expanding the ESLint configuration
+- 🔎 Visualizar una galería de personajes
+- 🟢 Identificar si están vivos, muertos o en estado desconocido
+- 🌌 Navegar a una página de detalle por personaje
+- 📱 Diseño responsive (Mobile First)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+- ⚛️ React (Vite)
+- 🌐 React Router DOM
+- 🎨 Tailwind CSS
+- 📡 Rick and Morty API
+
+---
